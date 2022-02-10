@@ -3,7 +3,7 @@ Task to demonstrate the use of Git and Github
 
 ##### WHAT IS GIT
 
-•Git is a distributed version control system that lets you manage and keep track of your source code. It was developed by Linus Torvalds(Bonus Tip
+•Git is a distributed version control system that lets you manage and keep track of your source code. It was developed by Linus Torvalds(Bonus Tip)
 
 #####  WHAT IS GITHUB
 
