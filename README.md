@@ -26,8 +26,8 @@ gcc
 
 Open your favorite code editor for me it's Vi
 
-Enter the following code below
-![](' code.png')
+Enter the following code below:
+![](code.png)
 
 To execute the code:
 ![](exec.png)
